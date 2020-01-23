@@ -1,0 +1,14 @@
+{
+  "name": "crud",
+  "version": "1.0.0",
+  "description": "Basic CRUD Application.",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "datatables": "^1.10.18",
+    "designmodo-flat-ui-free": "^2.4.0",
+    "jquery": "^3.4.1"
+  }
+}
