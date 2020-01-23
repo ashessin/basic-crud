@@ -1,0 +1,21 @@
+body {
+    min-width: 1024px;
+}
+
+tbody .checkbox {
+    display: inline;
+    margin-left: 10%;
+}
+
+.form-control[disabled],
+.form-control[readonly] {
+    color: black;
+}
+
+.new-entry {
+    display: none;
+}
+
+#DataTables_Table_0_filter > label > input {
+    margin: 0;
+}
