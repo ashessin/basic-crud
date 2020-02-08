@@ -17,3 +17,7 @@
 3. Text search and sort.
 4. Foreign key Constraint satisfaction on update, delete, insert.
 5. Navigation bar with active link indication.
+
+## Demo
+
+![Demo](assets/screenshot.gif)
